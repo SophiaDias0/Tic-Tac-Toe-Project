@@ -133,5 +133,13 @@
             tools:ignore="ButtonStyle"/>
     </LinearLayout>
 
+    <ImageButton
+        android:layout_width="52dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="330dp"
+        android:layout_marginTop="40dp"
+        android:src="@android:drawable/ic_popup_sync"
+        android:visibility="invisible"
+        android:id="@+id/btnRes"/>
 
 </LinearLayout>
